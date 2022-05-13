@@ -1,0 +1,5 @@
+$(function(){
+    $.ajax({
+        montod:'ajax'
+    })
+})
