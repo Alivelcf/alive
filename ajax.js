@@ -1,5 +1,6 @@
 $(function(){
     $.ajax({
-        montod:'ajax'
+        montod:'ajax',
+        url:''
     })
 })
